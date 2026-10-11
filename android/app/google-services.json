@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "208154282098",
+    "firebase_url": "https://class-timetable-app-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "class-timetable-app",
+    "storage_bucket": "class-timetable-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208154282098:android:90d7dd91ce2a5658575aeb",
+        "android_client_info": {
+          "package_name": "com.example.class_timetable_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrbcuYpkcnliU4hkVFgJFtmlNVjQU3NcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
